@@ -37,3 +37,8 @@ Since then, I’ve been exploring blockchain, DeFi, and everything around the we
 print("Hi, I'm Magnus 👋")
 print("I like learning, coding, and building cool stuff 🚀")
 print("Started my crypto journey in 2021 🪙")
+
+## 🌐 Connect with Me
+[![X (Twitter)](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/pawgnus)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/pawgnus)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:magnusmanullang@gmail.com)
