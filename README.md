@@ -30,6 +30,3 @@ Since then, I've been exploring **blockchain, DeFi, and everything around the We
 print("Hi, I'm Magnus 👋")
 print("I like learning, coding, and building cool stuff 🚀")
 print("Started my crypto journey in 2021 🌐")
-
----
-
